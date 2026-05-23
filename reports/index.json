@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-150803-gz9e",
+      "title": "Màxy",
+      "commanders": [
+        "Màxy"
+      ],
+      "dateStart": "2026-05-23T13:08:03.000Z",
+      "dateEnd": "2026-05-23T13:56:34.000Z",
+      "dateLabel": "23.5.2026, 15:08:03 - 23.5.2026, 15:56:34",
+      "url": "https://Metah123.github.io/Metah/?report=20260523-150803-gz9e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260522-205904-knpb",
       "title": "Devrahh",
       "commanders": [
