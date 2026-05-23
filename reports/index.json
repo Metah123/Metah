@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-211848-wwsb",
+      "title": "Devrahh",
+      "commanders": [
+        "Devrahh"
+      ],
+      "dateStart": "2026-05-23T19:18:48.000Z",
+      "dateEnd": "2026-05-23T19:58:09.000Z",
+      "dateLabel": "23.5.2026, 21:18:48 - 23.5.2026, 21:58:09",
+      "url": "https://Metah123.github.io/Metah/?report=20260523-211848-wwsb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 48,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260523-164338-ia9p",
       "title": "Pancadinhas De Amor",
       "commanders": [
