@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260524-212731-70s7",
+      "title": "Tunalizer",
+      "commanders": [
+        "Tunalizer"
+      ],
+      "dateStart": "2026-05-24T19:27:31.000Z",
+      "dateEnd": "2026-05-24T20:01:21.000Z",
+      "dateLabel": "24.5.2026, 21:27:31 - 24.5.2026, 22:01:21",
+      "url": "https://Metah123.github.io/Metah/?report=20260524-212731-70s7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260523-211848-wwsb",
       "title": "Devrahh",
       "commanders": [
