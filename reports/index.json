@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-172858-cjst",
+      "title": "Mocassinge, Prak Mesmerizing",
+      "commanders": [
+        "Mocassinge",
+        "Prak Mesmerizing"
+      ],
+      "dateStart": "2026-05-26T15:28:58.000Z",
+      "dateEnd": "2026-05-26T16:38:02.000Z",
+      "dateLabel": "26.5.2026, 17:28:58 - 26.5.2026, 18:38:02",
+      "url": "https://Metah123.github.io/Metah/?report=20260526-172858-cjst",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260524-212731-70s7",
       "title": "Tunalizer",
       "commanders": [
