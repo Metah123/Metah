@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260603-204645-5myd",
+      "title": "Devrahh",
+      "commanders": [
+        "Devrahh"
+      ],
+      "dateStart": "2026-06-03T18:46:45.000Z",
+      "dateEnd": "2026-06-03T20:05:26.000Z",
+      "dateLabel": "3.6.2026, 20:46:45 - 3.6.2026, 22:05:26",
+      "url": "https://Metah123.github.io/Metah/?report=20260603-204645-5myd",
+      "summary": {
+        "borderlandsPct": 0.9047619047619048,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260529-214041-gns5",
       "title": "Devrahh",
       "commanders": [
