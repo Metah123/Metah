@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-211404-4ftx",
+      "title": "Màxy",
+      "commanders": [
+        "Màxy"
+      ],
+      "dateStart": "2026-06-06T19:14:04.000Z",
+      "dateEnd": "2026-06-06T20:01:41.000Z",
+      "dateLabel": "6.6.2026, 21:14:04 - 6.6.2026, 22:01:41",
+      "url": "https://Metah123.github.io/Metah/?report=20260606-211404-4ftx",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260605-210622-sgeh",
       "title": "Î P S Ö",
       "commanders": [
