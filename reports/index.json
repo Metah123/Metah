@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-211059-fpup",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "dateStart": "2026-06-08T19:10:59.000Z",
+      "dateEnd": "2026-06-08T20:05:05.000Z",
+      "dateLabel": "8.6.2026, 21:10:59 - 8.6.2026, 22:05:05",
+      "url": "https://Metah123.github.io/Metah/?report=20260608-211059-fpup",
+      "summary": {
+        "borderlandsPct": 0.5675675675675675,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260606-211404-4ftx",
       "title": "Màxy",
       "commanders": [
