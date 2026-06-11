@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-211238-kctl",
+      "title": "Eternal Beta",
+      "commanders": [
+        "Eternal Beta"
+      ],
+      "dateStart": "2026-06-11T19:12:38.000Z",
+      "dateEnd": "2026-06-11T20:02:44.000Z",
+      "dateLabel": "11.6.2026, 21:12:38 - 11.6.2026, 22:02:44",
+      "url": "https://Metah123.github.io/Metah/?report=20260611-211238-kctl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260608-211059-fpup",
       "title": "Aerith Savante",
       "commanders": [
