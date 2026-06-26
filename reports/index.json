@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-205542-ijcu",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-06-26T18:55:42.000Z",
+      "dateEnd": "2026-06-26T20:01:02.000Z",
+      "dateLabel": "26.6.2026, 20:55:42 - 26.6.2026, 22:01:02",
+      "url": "https://Metah123.github.io/Metah/?report=20260626-205542-ijcu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260623-204836-8a0e",
       "title": "Î P S Ö",
       "commanders": [
