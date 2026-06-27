@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-204950-02gr",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "dateStart": "2026-06-27T18:49:50.000Z",
+      "dateEnd": "2026-06-27T19:54:12.000Z",
+      "dateLabel": "27.6.2026, 20:49:50 - 27.6.2026, 21:54:12",
+      "url": "https://Metah123.github.io/Metah/?report=20260627-204950-02gr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260627-094029-gs79",
       "title": "Devrahh",
       "commanders": [
