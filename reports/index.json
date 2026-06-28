@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-111743-agr1",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-06-28T09:17:43.000Z",
+      "dateEnd": "2026-06-28T09:52:20.000Z",
+      "dateLabel": "28.6.2026, 11:17:43 - 28.6.2026, 11:52:20",
+      "url": "https://Metah123.github.io/Metah/?report=20260628-111743-agr1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 61,
+        "avgEnemySize": 87
+      }
+    },
+    {
       "id": "20260627-204950-02gr",
       "title": "Aerith Savante",
       "commanders": [
