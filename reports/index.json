@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-210234-ss42",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-07-04T19:02:34.000Z",
+      "dateEnd": "2026-07-04T19:56:58.000Z",
+      "dateLabel": "4.7.2026, 21:02:34 - 4.7.2026, 21:56:58",
+      "url": "https://Metah123.github.io/Metah/?report=20260704-210234-ss42",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260703-201030-ethe",
       "title": "Aerith Savante",
       "commanders": [
