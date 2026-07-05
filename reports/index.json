@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-210858-alis",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-07-05T19:08:58.000Z",
+      "dateEnd": "2026-07-05T19:47:15.000Z",
+      "dateLabel": "5.7.2026, 21:08:58 - 5.7.2026, 21:47:15",
+      "url": "https://Metah123.github.io/Metah/?report=20260705-210858-alis",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260705-153919-w77m",
       "title": "Devrahh",
       "commanders": [
