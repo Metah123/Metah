@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-153919-w77m",
+      "title": "Devrahh",
+      "commanders": [
+        "Devrahh"
+      ],
+      "dateStart": "2026-07-05T13:39:19.000Z",
+      "dateEnd": "2026-07-05T14:41:01.000Z",
+      "dateLabel": "5.7.2026, 15:39:19 - 5.7.2026, 16:41:01",
+      "url": "https://Metah123.github.io/Metah/?report=20260705-153919-w77m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260704-210234-ss42",
       "title": "Î P S Ö",
       "commanders": [
