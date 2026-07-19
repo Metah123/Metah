@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-205040-odjo",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-07-19T18:50:40.000Z",
+      "dateEnd": "2026-07-19T19:58:48.000Z",
+      "dateLabel": "19.7.2026, 20:50:40 - 19.7.2026, 21:58:48",
+      "url": "https://Metah123.github.io/Metah/?report=20260719-205040-odjo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260718-212037-xxjz",
       "title": "Velira Nyx",
       "commanders": [
