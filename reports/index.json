@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-201902-ct7l",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-07-21T18:19:02.000Z",
+      "dateEnd": "2026-07-21T19:50:26.000Z",
+      "dateLabel": "21.7.2026, 20:19:02 - 21.7.2026, 21:50:26",
+      "url": "https://Metah123.github.io/Metah/?report=20260721-201902-ct7l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260719-205040-odjo",
       "title": "Î P S Ö",
       "commanders": [
