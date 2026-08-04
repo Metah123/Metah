@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-200258-wh26",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "guild": {
+        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+        "name": "Prôgrëss",
+        "tag": "poG"
+      },
+      "dateStart": "2026-08-04T18:02:58.000Z",
+      "dateEnd": "2026-08-04T18:45:46.000Z",
+      "dateLabel": "4.8.2026, 20:02:58 - 4.8.2026, 20:45:46",
+      "url": "https://Metah123.github.io/Metah/?report=20260804-200258-wh26",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260802-200631-czvq",
       "title": "Î P S Ö",
       "commanders": [
