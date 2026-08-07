@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-210537-en9q",
+      "title": "Devrahh",
+      "commanders": [
+        "Devrahh"
+      ],
+      "guild": {
+        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+        "name": "Prôgrëss",
+        "tag": "poG"
+      },
+      "dateStart": "2026-08-07T19:05:37.000Z",
+      "dateEnd": "2026-08-07T19:57:24.000Z",
+      "dateLabel": "7.8.2026, 21:05:37 - 7.8.2026, 21:57:24",
+      "url": "https://Metah123.github.io/Metah/?report=20260807-210537-en9q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260807-210537-kpa1",
       "title": "Devrahh",
       "commanders": [
