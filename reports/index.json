@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-202925-hs8d",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "guild": {
+        "id": "0351F650-D079-EF11-8465-068565E44296",
+        "name": "Jeeeee Hoyyyyyyyyy",
+        "tag": "iKuy"
+      },
+      "dateStart": "2026-08-08T18:29:25.000Z",
+      "dateEnd": "2026-08-08T19:18:56.000Z",
+      "dateLabel": "8.8.2026, 20:29:25 - 8.8.2026, 21:18:56",
+      "url": "https://Metah123.github.io/Metah/?report=20260808-202925-hs8d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260808-195002-vu4w",
       "title": "Aerith Savante",
       "commanders": [
