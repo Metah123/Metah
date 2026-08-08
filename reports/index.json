@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-105215-x7mo",
+      "title": "Devrahh",
+      "commanders": [
+        "Devrahh"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-08T08:52:15.000Z",
+      "dateEnd": "2026-08-08T09:19:57.000Z",
+      "dateLabel": "8.8.2026, 10:52:15 - 8.8.2026, 11:19:57",
+      "url": "https://Metah123.github.io/Metah/?report=20260808-105215-x7mo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 53,
+        "avgEnemySize": 128
+      }
+    },
+    {
       "id": "20260807-210537-en9q",
       "title": "Devrahh",
       "commanders": [
