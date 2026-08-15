@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-204854-r5qu",
+      "title": "Kaiser Köfte",
+      "commanders": [
+        "Kaiser Köfte"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-15T18:48:54.000Z",
+      "dateEnd": "2026-08-15T19:42:55.000Z",
+      "dateLabel": "15.8.2026, 20:48:54 - 15.8.2026, 21:42:55",
+      "url": "https://Metah123.github.io/Metah/?report=20260815-204854-r5qu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260814-205208-s7jx",
       "title": "Lan Firebrand",
       "commanders": [
