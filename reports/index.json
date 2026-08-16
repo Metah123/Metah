@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-211904-9sil",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "guild": {
+        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+        "name": "Prôgrëss",
+        "tag": "poG"
+      },
+      "dateStart": "2026-08-16T19:19:04.000Z",
+      "dateEnd": "2026-08-16T19:51:12.000Z",
+      "dateLabel": "16.8.2026, 21:19:04 - 16.8.2026, 21:51:12",
+      "url": "https://Metah123.github.io/Metah/?report=20260816-211904-9sil",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260816-095828-dilr",
       "title": "Dronalys",
       "commanders": [
