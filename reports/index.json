@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-095828-dilr",
+      "title": "Dronalys",
+      "commanders": [
+        "Dronalys"
+      ],
+      "guild": {
+        "id": "0351F650-D079-EF11-8465-068565E44296",
+        "name": "Jeeeee Hoyyyyyyyyy",
+        "tag": "iKuy"
+      },
+      "dateStart": "2026-08-16T07:58:28.000Z",
+      "dateEnd": "2026-08-16T09:19:27.000Z",
+      "dateLabel": "16.8.2026, 09:58:28 - 16.8.2026, 11:19:27",
+      "url": "https://Metah123.github.io/Metah/?report=20260816-095828-dilr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260815-204854-r5qu",
       "title": "Kaiser Köfte",
       "commanders": [
