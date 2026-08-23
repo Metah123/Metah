@@ -1238,29 +1238,6 @@
     }
   },
   {
-    "id": "20260523-164338-ia9p",
-    "title": "Pancadinhas De Amor",
-    "commanders": [
-      "Pancadinhas De Amor"
-    ],
-    "dateStart": "2026-05-23T14:43:38.000Z",
-    "dateEnd": "2026-05-23T15:12:37.000Z",
-    "dateLabel": "23.5.2026, 16:43:38 - 23.5.2026, 17:12:37",
-    "url": "https://Metah123.github.io/Metah/?report=20260523-164338-ia9p",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 31
-    }
-  },
-  {
     "id": "20260523-150803-gz9e",
     "title": "Màxy",
     "commanders": [
