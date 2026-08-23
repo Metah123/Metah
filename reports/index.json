@@ -1168,29 +1168,6 @@
     }
   },
   {
-    "id": "20260528-164319-vhmc",
-    "title": "Mocassinge",
-    "commanders": [
-      "Mocassinge"
-    ],
-    "dateStart": "2026-05-28T14:43:19.000Z",
-    "dateEnd": "2026-05-28T15:07:08.000Z",
-    "dateLabel": "28.5.2026, 16:43:19 - 28.5.2026, 17:07:08",
-    "url": "https://Metah123.github.io/Metah/?report=20260528-164319-vhmc",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 43,
-      "avgEnemySize": 48
-    }
-  },
-  {
     "id": "20260523-211848-wwsb",
     "title": "Devrahh",
     "commanders": [
