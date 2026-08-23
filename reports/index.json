@@ -1089,29 +1089,6 @@
     }
   },
   {
-    "id": "20260605-181417-9jqh",
-    "title": "Kharasshnikof",
-    "commanders": [
-      "Kharasshnikof"
-    ],
-    "dateStart": "2026-06-05T16:14:17.000Z",
-    "dateEnd": "2026-06-05T16:56:26.000Z",
-    "dateLabel": "5.6.2026, 18:14:17 - 5.6.2026, 18:56:26",
-    "url": "https://Metah123.github.io/Metah/?report=20260605-181417-9jqh",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 33
-    }
-  },
-  {
     "id": "20260603-204645-5myd",
     "title": "Devrahh",
     "commanders": [
