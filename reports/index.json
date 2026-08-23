@@ -1305,28 +1305,5 @@
       "avgSquadSize": 36,
       "avgEnemySize": 37
     }
-  },
-  {
-    "id": "20260522-205904-knpb",
-    "title": "Devrahh",
-    "commanders": [
-      "Devrahh"
-    ],
-    "dateStart": "2026-05-22T18:59:04.000Z",
-    "dateEnd": "2026-05-22T20:02:55.000Z",
-    "dateLabel": "22.5.2026, 20:59:04 - 22.5.2026, 22:02:55",
-    "url": "https://Metah123.github.io/Metah/?report=20260522-205904-knpb",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 29,
-          "color": "#3b82f6"
-        }
-      ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 45
-    }
   }
 ]
