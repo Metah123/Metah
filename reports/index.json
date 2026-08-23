@@ -1087,28 +1087,5 @@
       "avgSquadSize": 47,
       "avgEnemySize": 46
     }
-  },
-  {
-    "id": "20260529-214041-gns5",
-    "title": "Devrahh",
-    "commanders": [
-      "Devrahh"
-    ],
-    "dateStart": "2026-05-29T19:40:41.000Z",
-    "dateEnd": "2026-05-29T20:05:30.000Z",
-    "dateLabel": "29.5.2026, 21:40:41 - 29.5.2026, 22:05:30",
-    "url": "https://Metah123.github.io/Metah/?report=20260529-214041-gns5",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 35,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 48
-    }
   }
 ]
