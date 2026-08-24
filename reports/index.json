@@ -1,1101 +1,1068 @@
-{
-  "colorPalette": "emerald-mint",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260824-210640-qtu1",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
-      ],
-      "guild": {
-        "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
-        "name": "Mistwalk Syndicate",
-        "tag": "MS"
-      },
-      "dateStart": "2026-08-24T19:06:40.000Z",
-      "dateEnd": "2026-08-24T20:03:56.382Z",
-      "dateLabel": "24.8.2026, 21:06:40 - 24.8.2026, 22:03:56",
-      "url": "https://Metah123.github.io/Metah/?report=20260824-210640-qtu1",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 17,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 48,
-        "avgEnemySize": 49
-      }
+[
+  {
+    "id": "20260824-210640-qtu1",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "guild": {
+      "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
+      "name": "Mistwalk Syndicate",
+      "tag": "MS"
     },
-    {
-      "id": "20260824-212050-iibv",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
+    "dateStart": "2026-08-24T19:06:40.000Z",
+    "dateEnd": "2026-08-24T20:03:56.382Z",
+    "dateLabel": "24.8.2026, 21:06:40 - 24.8.2026, 22:03:56",
+    "url": "https://Metah123.github.io/Metah/?report=20260824-210640-qtu1",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 17,
+          "color": "#64748b"
+        }
       ],
-      "guild": {
-        "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
-        "name": "Mistwalk Syndicate",
-        "tag": "MS"
-      },
-      "dateStart": "2026-08-24T19:20:50.000Z",
-      "dateEnd": "2026-08-24T20:03:56.382Z",
-      "dateLabel": "24.8.2026, 21:20:50 - 24.8.2026, 22:03:56",
-      "url": "https://Metah123.github.io/Metah/?report=20260824-212050-iibv",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 28,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 48,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260823-202306-amjo",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-23T18:23:06.000Z",
-      "dateEnd": "2026-08-23T19:24:45.516Z",
-      "dateLabel": "23.8.2026, 20:23:06 - 23.8.2026, 21:24:45",
-      "url": "https://Metah123.github.io/Metah/?report=20260823-202306-amjo",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260822-211326-z69f",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-22T19:13:26.000Z",
-      "dateEnd": "2026-08-22T19:50:28.925Z",
-      "dateLabel": "22.8.2026, 21:13:26 - 22.8.2026, 21:50:28",
-      "url": "https://Metah123.github.io/Metah/?report=20260822-211326-z69f",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 34,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 49,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260822-095252-qsbs",
-      "title": "Devrahh",
-      "commanders": [
-        "Devrahh"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-22T07:52:52.000Z",
-      "dateEnd": "2026-08-22T08:36:45.005Z",
-      "dateLabel": "22.8.2026, 09:52:52 - 22.8.2026, 10:36:45",
-      "url": "https://Metah123.github.io/Metah/?report=20260822-095252-qsbs",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 53,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260821-204546-dxf5",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-21T18:45:46.000Z",
-      "dateEnd": "2026-08-21T19:28:02.178Z",
-      "dateLabel": "21.8.2026, 20:45:46 - 21.8.2026, 21:28:02",
-      "url": "https://Metah123.github.io/Metah/?report=20260821-204546-dxf5",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 24,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 49,
-        "avgEnemySize": 59
-      }
-    },
-    {
-      "id": "20260818-212351-uv5y",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-18T19:23:51.000Z",
-      "dateEnd": "2026-08-18T20:03:43.000Z",
-      "dateLabel": "18.8.2026, 21:23:51 - 18.8.2026, 22:03:43",
-      "url": "https://Metah123.github.io/Metah/?report=20260818-212351-uv5y",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 15,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260816-211904-9sil",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-16T19:19:04.000Z",
-      "dateEnd": "2026-08-16T19:51:12.000Z",
-      "dateLabel": "16.8.2026, 21:19:04 - 16.8.2026, 21:51:12",
-      "url": "https://Metah123.github.io/Metah/?report=20260816-211904-9sil",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 43,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 41,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260816-095828-dilr",
-      "title": "Dronalys",
-      "commanders": [
-        "Dronalys"
-      ],
-      "guild": {
-        "id": "0351F650-D079-EF11-8465-068565E44296",
-        "name": "Jeeeee Hoyyyyyyyyy",
-        "tag": "iKuy"
-      },
-      "dateStart": "2026-08-16T07:58:28.000Z",
-      "dateEnd": "2026-08-16T09:19:27.000Z",
-      "dateLabel": "16.8.2026, 09:58:28 - 16.8.2026, 11:19:27",
-      "url": "https://Metah123.github.io/Metah/?report=20260816-095828-dilr",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 17,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 46,
-        "avgEnemySize": 30
-      }
-    },
-    {
-      "id": "20260815-204854-r5qu",
-      "title": "Kaiser Köfte",
-      "commanders": [
-        "Kaiser Köfte"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-08-15T18:48:54.000Z",
-      "dateEnd": "2026-08-15T19:42:55.000Z",
-      "dateLabel": "15.8.2026, 20:48:54 - 15.8.2026, 21:42:55",
-      "url": "https://Metah123.github.io/Metah/?report=20260815-204854-r5qu",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 21,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 45,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260814-205208-s7jx",
-      "title": "Lan Firebrand",
-      "commanders": [
-        "Lan Firebrand"
-      ],
-      "guild": {
-        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
-        "name": "Notorîous",
-        "tag": "BiG"
-      },
-      "dateStart": "2026-08-14T18:52:08.000Z",
-      "dateEnd": "2026-08-14T20:00:02.000Z",
-      "dateLabel": "14.8.2026, 20:52:08 - 14.8.2026, 22:00:02",
-      "url": "https://Metah123.github.io/Metah/?report=20260814-205208-s7jx",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 31,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 49,
-        "avgEnemySize": 52
-      }
-    },
-    {
-      "id": "20260812-211609-rshi",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-12T19:16:09.000Z",
-      "dateEnd": "2026-08-12T19:55:49.000Z",
-      "dateLabel": "12.8.2026, 21:16:09 - 12.8.2026, 21:55:49",
-      "url": "https://Metah123.github.io/Metah/?report=20260812-211609-rshi",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 30,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 40,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260809-211034-r215",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-09T19:10:34.000Z",
-      "dateEnd": "2026-08-09T19:49:12.000Z",
-      "dateLabel": "9.8.2026, 21:10:34 - 9.8.2026, 21:49:12",
-      "url": "https://Metah123.github.io/Metah/?report=20260809-211034-r215",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 21,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 34
-      }
-    },
-    {
-      "id": "20260808-202925-hs8d",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
-      ],
-      "guild": {
-        "id": "0351F650-D079-EF11-8465-068565E44296",
-        "name": "Jeeeee Hoyyyyyyyyy",
-        "tag": "iKuy"
-      },
-      "dateStart": "2026-08-08T18:29:25.000Z",
-      "dateEnd": "2026-08-08T19:18:56.000Z",
-      "dateLabel": "8.8.2026, 20:29:25 - 8.8.2026, 21:18:56",
-      "url": "https://Metah123.github.io/Metah/?report=20260808-202925-hs8d",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 26,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260808-195002-vu4w",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-08T17:50:02.000Z",
-      "dateEnd": "2026-08-08T17:58:22.000Z",
-      "dateLabel": "8.8.2026, 19:50:02 - 8.8.2026, 19:58:22",
-      "url": "https://Metah123.github.io/Metah/?report=20260808-195002-vu4w",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260808-105215-x7mo",
-      "title": "Devrahh",
-      "commanders": [
-        "Devrahh"
-      ],
-      "guild": {
-        "id": "00000000-0000-0000-0000-000000000000",
-        "name": null,
-        "tag": null
-      },
-      "dateStart": "2026-08-08T08:52:15.000Z",
-      "dateEnd": "2026-08-08T09:19:57.000Z",
-      "dateLabel": "8.8.2026, 10:52:15 - 8.8.2026, 11:19:57",
-      "url": "https://Metah123.github.io/Metah/?report=20260808-105215-x7mo",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 53,
-        "avgEnemySize": 128
-      }
-    },
-    {
-      "id": "20260807-210537-en9q",
-      "title": "Devrahh",
-      "commanders": [
-        "Devrahh"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-07T19:05:37.000Z",
-      "dateEnd": "2026-08-07T19:57:24.000Z",
-      "dateLabel": "7.8.2026, 21:05:37 - 7.8.2026, 21:57:24",
-      "url": "https://Metah123.github.io/Metah/?report=20260807-210537-en9q",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 30,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 47,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260807-210537-kpa1",
-      "title": "Devrahh",
-      "commanders": [
-        "Devrahh"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-07T19:05:37.000Z",
-      "dateEnd": "2026-08-07T19:57:24.000Z",
-      "dateLabel": "7.8.2026, 21:05:37 - 7.8.2026, 21:57:24",
-      "url": "https://Metah123.github.io/Metah/?report=20260807-210537-kpa1",
-      "summary": {
-        "borderlandsPct": 0.9090909090909091,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 30,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 3,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 46,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260804-200258-wh26",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-04T18:02:58.000Z",
-      "dateEnd": "2026-08-04T18:45:46.000Z",
-      "dateLabel": "4.8.2026, 20:02:58 - 4.8.2026, 20:45:46",
-      "url": "https://Metah123.github.io/Metah/?report=20260804-200258-wh26",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 10,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260802-200631-czvq",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-08-02T18:06:31.000Z",
-      "dateEnd": "2026-08-02T19:03:37.000Z",
-      "dateLabel": "2.8.2026, 20:06:31 - 2.8.2026, 21:03:37",
-      "url": "https://Metah123.github.io/Metah/?report=20260802-200631-czvq",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 37
-      }
-    },
-    {
-      "id": "20260731-211129-b8ot",
-      "title": "Aerith Savante, Î P S Ö",
-      "commanders": [
-        "Aerith Savante",
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-07-31T19:11:29.000Z",
-      "dateEnd": "2026-07-31T20:04:31.000Z",
-      "dateLabel": "31.7.2026, 21:11:29 - 31.7.2026, 22:04:31",
-      "url": "https://Metah123.github.io/Metah/?report=20260731-211129-b8ot",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 31,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 47,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260731-211129-7nk5",
-      "title": "Aerith Savante, Î P S Ö",
-      "commanders": [
-        "Aerith Savante",
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-07-31T19:11:29.000Z",
-      "dateEnd": "2026-07-31T20:04:31.000Z",
-      "dateLabel": "31.7.2026, 21:11:29 - 31.7.2026, 22:04:31",
-      "url": "https://Metah123.github.io/Metah/?report=20260731-211129-7nk5",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 31,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 47,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260731-211129-g878",
-      "title": "Aerith Savante, Î P S Ö",
-      "commanders": [
-        "Aerith Savante",
-        "Î P S Ö"
-      ],
-      "guild": {
-        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
-        "name": "Prôgrëss",
-        "tag": "poG"
-      },
-      "dateStart": "2026-07-31T19:11:29.000Z",
-      "dateEnd": "2026-07-31T20:04:31.000Z",
-      "dateLabel": "31.7.2026, 21:11:29 - 31.7.2026, 22:04:31",
-      "url": "https://Metah123.github.io/Metah/?report=20260731-211129-g878",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 31,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 47,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260721-201902-ct7l",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-07-21T18:19:02.000Z",
-      "dateEnd": "2026-07-21T19:50:26.000Z",
-      "dateLabel": "21.7.2026, 20:19:02 - 21.7.2026, 21:50:26",
-      "url": "https://Metah123.github.io/Metah/?report=20260721-201902-ct7l",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 18,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260719-205040-odjo",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-07-19T18:50:40.000Z",
-      "dateEnd": "2026-07-19T19:58:48.000Z",
-      "dateLabel": "19.7.2026, 20:50:40 - 19.7.2026, 21:58:48",
-      "url": "https://Metah123.github.io/Metah/?report=20260719-205040-odjo",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 26,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260718-212037-xxjz",
-      "title": "Velira Nyx",
-      "commanders": [
-        "Velira Nyx"
-      ],
-      "dateStart": "2026-07-18T19:20:37.000Z",
-      "dateEnd": "2026-07-18T20:05:50.000Z",
-      "dateLabel": "18.7.2026, 21:20:37 - 18.7.2026, 22:05:50",
-      "url": "https://Metah123.github.io/Metah/?report=20260718-212037-xxjz",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 30,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 44,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260705-210858-alis",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-07-05T19:08:58.000Z",
-      "dateEnd": "2026-07-05T19:47:15.000Z",
-      "dateLabel": "5.7.2026, 21:08:58 - 5.7.2026, 21:47:15",
-      "url": "https://Metah123.github.io/Metah/?report=20260705-210858-alis",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 14,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20260705-153919-w77m",
-      "title": "Devrahh",
-      "commanders": [
-        "Devrahh"
-      ],
-      "dateStart": "2026-07-05T13:39:19.000Z",
-      "dateEnd": "2026-07-05T14:41:01.000Z",
-      "dateLabel": "5.7.2026, 15:39:19 - 5.7.2026, 16:41:01",
-      "url": "https://Metah123.github.io/Metah/?report=20260705-153919-w77m",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 22,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 48,
-        "avgEnemySize": 51
-      }
-    },
-    {
-      "id": "20260704-210234-ss42",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-07-04T19:02:34.000Z",
-      "dateEnd": "2026-07-04T19:56:58.000Z",
-      "dateLabel": "4.7.2026, 21:02:34 - 4.7.2026, 21:56:58",
-      "url": "https://Metah123.github.io/Metah/?report=20260704-210234-ss42",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Obsidian Sanctum",
-            "value": 27,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 48,
-        "avgEnemySize": 54
-      }
-    },
-    {
-      "id": "20260703-201030-ethe",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
-      ],
-      "dateStart": "2026-07-03T18:10:30.000Z",
-      "dateEnd": "2026-07-03T18:59:31.000Z",
-      "dateLabel": "3.7.2026, 20:10:30 - 3.7.2026, 20:59:31",
-      "url": "https://Metah123.github.io/Metah/?report=20260703-201030-ethe",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 29,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 49,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260703-205436-xbsq",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
-      ],
-      "dateStart": "2026-07-03T18:54:36.000Z",
-      "dateEnd": "2026-07-03T19:57:32.000Z",
-      "dateLabel": "3.7.2026, 20:54:36 - 3.7.2026, 21:57:32",
-      "url": "https://Metah123.github.io/Metah/?report=20260703-205436-xbsq",
-      "summary": {
-        "borderlandsPct": 0.8787878787878788,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 29,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 4,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 45,
-        "avgEnemySize": 52
-      }
-    },
-    {
-      "id": "20260628-153802-k0bs",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-28T13:38:02.000Z",
-      "dateEnd": "2026-06-28T14:27:54.000Z",
-      "dateLabel": "28.6.2026, 15:38:02 - 28.6.2026, 16:27:54",
-      "url": "https://Metah123.github.io/Metah/?report=20260628-153802-k0bs",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 15,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 47,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260628-111743-agr1",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-28T09:17:43.000Z",
-      "dateEnd": "2026-06-28T09:52:20.000Z",
-      "dateLabel": "28.6.2026, 11:17:43 - 28.6.2026, 11:52:20",
-      "url": "https://Metah123.github.io/Metah/?report=20260628-111743-agr1",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 61,
-        "avgEnemySize": 87
-      }
-    },
-    {
-      "id": "20260627-204950-02gr",
-      "title": "Aerith Savante",
-      "commanders": [
-        "Aerith Savante"
-      ],
-      "dateStart": "2026-06-27T18:49:50.000Z",
-      "dateEnd": "2026-06-27T19:54:12.000Z",
-      "dateLabel": "27.6.2026, 20:49:50 - 27.6.2026, 21:54:12",
-      "url": "https://Metah123.github.io/Metah/?report=20260627-204950-02gr",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 21,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 39
-      }
-    },
-    {
-      "id": "20260627-094029-gs79",
-      "title": "Devrahh",
-      "commanders": [
-        "Devrahh"
-      ],
-      "dateStart": "2026-06-27T07:40:29.000Z",
-      "dateEnd": "2026-06-27T09:58:47.000Z",
-      "dateLabel": "27.6.2026, 09:40:29 - 27.6.2026, 11:58:47",
-      "url": "https://Metah123.github.io/Metah/?report=20260627-094029-gs79",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 15,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260626-205542-ijcu",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-26T18:55:42.000Z",
-      "dateEnd": "2026-06-26T20:01:02.000Z",
-      "dateLabel": "26.6.2026, 20:55:42 - 26.6.2026, 22:01:02",
-      "url": "https://Metah123.github.io/Metah/?report=20260626-205542-ijcu",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 27,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 49,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260623-204836-8a0e",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-23T18:48:36.000Z",
-      "dateEnd": "2026-06-23T20:00:53.000Z",
-      "dateLabel": "23.6.2026, 20:48:36 - 23.6.2026, 22:00:53",
-      "url": "https://Metah123.github.io/Metah/?report=20260623-204836-8a0e",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 26,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260621-195844-6wqo",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-21T17:58:44.000Z",
-      "dateEnd": "2026-06-21T19:52:12.000Z",
-      "dateLabel": "21.6.2026, 19:58:44 - 21.6.2026, 21:52:12",
-      "url": "https://Metah123.github.io/Metah/?report=20260621-195844-6wqo",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 30,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260621-210948-qx51",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-21T19:09:48.000Z",
-      "dateEnd": "2026-06-21T19:52:12.000Z",
-      "dateLabel": "21.6.2026, 21:09:48 - 21.6.2026, 21:52:12",
-      "url": "https://Metah123.github.io/Metah/?report=20260621-210948-qx51",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 29,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260613-205359-57ed",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-13T18:53:59.000Z",
-      "dateEnd": "2026-06-13T19:50:45.000Z",
-      "dateLabel": "13.6.2026, 20:53:59 - 13.6.2026, 21:50:45",
-      "url": "https://Metah123.github.io/Metah/?report=20260613-205359-57ed",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 28,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 50,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260612-204124-zpi5",
-      "title": "Î P S Ö",
-      "commanders": [
-        "Î P S Ö"
-      ],
-      "dateStart": "2026-06-12T18:41:24.000Z",
-      "dateEnd": "2026-06-12T19:50:02.000Z",
-      "dateLabel": "12.6.2026, 20:41:24 - 12.6.2026, 21:50:02",
-      "url": "https://Metah123.github.io/Metah/?report=20260612-204124-zpi5",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 22,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 50,
-        "avgEnemySize": 52
-      }
-    },
-    {
-      "id": "20260611-211238-kctl",
-      "title": "Eternal Beta",
-      "commanders": [
-        "Eternal Beta"
-      ],
-      "dateStart": "2026-06-11T19:12:38.000Z",
-      "dateEnd": "2026-06-11T20:02:44.000Z",
-      "dateLabel": "11.6.2026, 21:12:38 - 11.6.2026, 22:02:44",
-      "url": "https://Metah123.github.io/Metah/?report=20260611-211238-kctl",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 27,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 20
-      }
+      "avgSquadSize": 48,
+      "avgEnemySize": 49
     }
-  ]
-}
+  },
+  {
+    "id": "20260823-202306-amjo",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-23T18:23:06.000Z",
+    "dateEnd": "2026-08-23T19:24:45.516Z",
+    "dateLabel": "23.8.2026, 20:23:06 - 23.8.2026, 21:24:45",
+    "url": "https://Metah123.github.io/Metah/?report=20260823-202306-amjo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260822-211326-z69f",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-22T19:13:26.000Z",
+    "dateEnd": "2026-08-22T19:50:28.925Z",
+    "dateLabel": "22.8.2026, 21:13:26 - 22.8.2026, 21:50:28",
+    "url": "https://Metah123.github.io/Metah/?report=20260822-211326-z69f",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 34,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 49,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260822-095252-qsbs",
+    "title": "Devrahh",
+    "commanders": [
+      "Devrahh"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-22T07:52:52.000Z",
+    "dateEnd": "2026-08-22T08:36:45.005Z",
+    "dateLabel": "22.8.2026, 09:52:52 - 22.8.2026, 10:36:45",
+    "url": "https://Metah123.github.io/Metah/?report=20260822-095252-qsbs",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 53,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260821-204546-dxf5",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-21T18:45:46.000Z",
+    "dateEnd": "2026-08-21T19:28:02.178Z",
+    "dateLabel": "21.8.2026, 20:45:46 - 21.8.2026, 21:28:02",
+    "url": "https://Metah123.github.io/Metah/?report=20260821-204546-dxf5",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 24,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 49,
+      "avgEnemySize": 59
+    }
+  },
+  {
+    "id": "20260818-212351-uv5y",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-18T19:23:51.000Z",
+    "dateEnd": "2026-08-18T20:03:43.000Z",
+    "dateLabel": "18.8.2026, 21:23:51 - 18.8.2026, 22:03:43",
+    "url": "https://Metah123.github.io/Metah/?report=20260818-212351-uv5y",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 15,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260816-211904-9sil",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-16T19:19:04.000Z",
+    "dateEnd": "2026-08-16T19:51:12.000Z",
+    "dateLabel": "16.8.2026, 21:19:04 - 16.8.2026, 21:51:12",
+    "url": "https://Metah123.github.io/Metah/?report=20260816-211904-9sil",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 43,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260816-095828-dilr",
+    "title": "Dronalys",
+    "commanders": [
+      "Dronalys"
+    ],
+    "guild": {
+      "id": "0351F650-D079-EF11-8465-068565E44296",
+      "name": "Jeeeee Hoyyyyyyyyy",
+      "tag": "iKuy"
+    },
+    "dateStart": "2026-08-16T07:58:28.000Z",
+    "dateEnd": "2026-08-16T09:19:27.000Z",
+    "dateLabel": "16.8.2026, 09:58:28 - 16.8.2026, 11:19:27",
+    "url": "https://Metah123.github.io/Metah/?report=20260816-095828-dilr",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 17,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 46,
+      "avgEnemySize": 30
+    }
+  },
+  {
+    "id": "20260815-204854-r5qu",
+    "title": "Kaiser Köfte",
+    "commanders": [
+      "Kaiser Köfte"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-08-15T18:48:54.000Z",
+    "dateEnd": "2026-08-15T19:42:55.000Z",
+    "dateLabel": "15.8.2026, 20:48:54 - 15.8.2026, 21:42:55",
+    "url": "https://Metah123.github.io/Metah/?report=20260815-204854-r5qu",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 21,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 45,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260814-205208-s7jx",
+    "title": "Lan Firebrand",
+    "commanders": [
+      "Lan Firebrand"
+    ],
+    "guild": {
+      "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+      "name": "Notorîous",
+      "tag": "BiG"
+    },
+    "dateStart": "2026-08-14T18:52:08.000Z",
+    "dateEnd": "2026-08-14T20:00:02.000Z",
+    "dateLabel": "14.8.2026, 20:52:08 - 14.8.2026, 22:00:02",
+    "url": "https://Metah123.github.io/Metah/?report=20260814-205208-s7jx",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 31,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 49,
+      "avgEnemySize": 52
+    }
+  },
+  {
+    "id": "20260812-211609-rshi",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-12T19:16:09.000Z",
+    "dateEnd": "2026-08-12T19:55:49.000Z",
+    "dateLabel": "12.8.2026, 21:16:09 - 12.8.2026, 21:55:49",
+    "url": "https://Metah123.github.io/Metah/?report=20260812-211609-rshi",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 30,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260809-211034-r215",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-09T19:10:34.000Z",
+    "dateEnd": "2026-08-09T19:49:12.000Z",
+    "dateLabel": "9.8.2026, 21:10:34 - 9.8.2026, 21:49:12",
+    "url": "https://Metah123.github.io/Metah/?report=20260809-211034-r215",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 21,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 34
+    }
+  },
+  {
+    "id": "20260808-202925-hs8d",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "guild": {
+      "id": "0351F650-D079-EF11-8465-068565E44296",
+      "name": "Jeeeee Hoyyyyyyyyy",
+      "tag": "iKuy"
+    },
+    "dateStart": "2026-08-08T18:29:25.000Z",
+    "dateEnd": "2026-08-08T19:18:56.000Z",
+    "dateLabel": "8.8.2026, 20:29:25 - 8.8.2026, 21:18:56",
+    "url": "https://Metah123.github.io/Metah/?report=20260808-202925-hs8d",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 26,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260808-195002-vu4w",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-08T17:50:02.000Z",
+    "dateEnd": "2026-08-08T17:58:22.000Z",
+    "dateLabel": "8.8.2026, 19:50:02 - 8.8.2026, 19:58:22",
+    "url": "https://Metah123.github.io/Metah/?report=20260808-195002-vu4w",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260808-105215-x7mo",
+    "title": "Devrahh",
+    "commanders": [
+      "Devrahh"
+    ],
+    "guild": {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "tag": null
+    },
+    "dateStart": "2026-08-08T08:52:15.000Z",
+    "dateEnd": "2026-08-08T09:19:57.000Z",
+    "dateLabel": "8.8.2026, 10:52:15 - 8.8.2026, 11:19:57",
+    "url": "https://Metah123.github.io/Metah/?report=20260808-105215-x7mo",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 53,
+      "avgEnemySize": 128
+    }
+  },
+  {
+    "id": "20260807-210537-en9q",
+    "title": "Devrahh",
+    "commanders": [
+      "Devrahh"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-07T19:05:37.000Z",
+    "dateEnd": "2026-08-07T19:57:24.000Z",
+    "dateLabel": "7.8.2026, 21:05:37 - 7.8.2026, 21:57:24",
+    "url": "https://Metah123.github.io/Metah/?report=20260807-210537-en9q",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 30,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 50
+    }
+  },
+  {
+    "id": "20260807-210537-kpa1",
+    "title": "Devrahh",
+    "commanders": [
+      "Devrahh"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-07T19:05:37.000Z",
+    "dateEnd": "2026-08-07T19:57:24.000Z",
+    "dateLabel": "7.8.2026, 21:05:37 - 7.8.2026, 21:57:24",
+    "url": "https://Metah123.github.io/Metah/?report=20260807-210537-kpa1",
+    "summary": {
+      "borderlandsPct": 0.9090909090909091,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 30,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 46,
+      "avgEnemySize": 50
+    }
+  },
+  {
+    "id": "20260804-200258-wh26",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-04T18:02:58.000Z",
+    "dateEnd": "2026-08-04T18:45:46.000Z",
+    "dateLabel": "4.8.2026, 20:02:58 - 4.8.2026, 20:45:46",
+    "url": "https://Metah123.github.io/Metah/?report=20260804-200258-wh26",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260802-200631-czvq",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-08-02T18:06:31.000Z",
+    "dateEnd": "2026-08-02T19:03:37.000Z",
+    "dateLabel": "2.8.2026, 20:06:31 - 2.8.2026, 21:03:37",
+    "url": "https://Metah123.github.io/Metah/?report=20260802-200631-czvq",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 37
+    }
+  },
+  {
+    "id": "20260731-211129-b8ot",
+    "title": "Aerith Savante, Î P S Ö",
+    "commanders": [
+      "Aerith Savante",
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-07-31T19:11:29.000Z",
+    "dateEnd": "2026-07-31T20:04:31.000Z",
+    "dateLabel": "31.7.2026, 21:11:29 - 31.7.2026, 22:04:31",
+    "url": "https://Metah123.github.io/Metah/?report=20260731-211129-b8ot",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 31,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260731-211129-7nk5",
+    "title": "Aerith Savante, Î P S Ö",
+    "commanders": [
+      "Aerith Savante",
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-07-31T19:11:29.000Z",
+    "dateEnd": "2026-07-31T20:04:31.000Z",
+    "dateLabel": "31.7.2026, 21:11:29 - 31.7.2026, 22:04:31",
+    "url": "https://Metah123.github.io/Metah/?report=20260731-211129-7nk5",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 31,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260731-211129-g878",
+    "title": "Aerith Savante, Î P S Ö",
+    "commanders": [
+      "Aerith Savante",
+      "Î P S Ö"
+    ],
+    "guild": {
+      "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+      "name": "Prôgrëss",
+      "tag": "poG"
+    },
+    "dateStart": "2026-07-31T19:11:29.000Z",
+    "dateEnd": "2026-07-31T20:04:31.000Z",
+    "dateLabel": "31.7.2026, 21:11:29 - 31.7.2026, 22:04:31",
+    "url": "https://Metah123.github.io/Metah/?report=20260731-211129-g878",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 31,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260721-201902-ct7l",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-07-21T18:19:02.000Z",
+    "dateEnd": "2026-07-21T19:50:26.000Z",
+    "dateLabel": "21.7.2026, 20:19:02 - 21.7.2026, 21:50:26",
+    "url": "https://Metah123.github.io/Metah/?report=20260721-201902-ct7l",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 18,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260719-205040-odjo",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-07-19T18:50:40.000Z",
+    "dateEnd": "2026-07-19T19:58:48.000Z",
+    "dateLabel": "19.7.2026, 20:50:40 - 19.7.2026, 21:58:48",
+    "url": "https://Metah123.github.io/Metah/?report=20260719-205040-odjo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 26,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260718-212037-xxjz",
+    "title": "Velira Nyx",
+    "commanders": [
+      "Velira Nyx"
+    ],
+    "dateStart": "2026-07-18T19:20:37.000Z",
+    "dateEnd": "2026-07-18T20:05:50.000Z",
+    "dateLabel": "18.7.2026, 21:20:37 - 18.7.2026, 22:05:50",
+    "url": "https://Metah123.github.io/Metah/?report=20260718-212037-xxjz",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 30,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 44,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260705-210858-alis",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-07-05T19:08:58.000Z",
+    "dateEnd": "2026-07-05T19:47:15.000Z",
+    "dateLabel": "5.7.2026, 21:08:58 - 5.7.2026, 21:47:15",
+    "url": "https://Metah123.github.io/Metah/?report=20260705-210858-alis",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 14,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20260705-153919-w77m",
+    "title": "Devrahh",
+    "commanders": [
+      "Devrahh"
+    ],
+    "dateStart": "2026-07-05T13:39:19.000Z",
+    "dateEnd": "2026-07-05T14:41:01.000Z",
+    "dateLabel": "5.7.2026, 15:39:19 - 5.7.2026, 16:41:01",
+    "url": "https://Metah123.github.io/Metah/?report=20260705-153919-w77m",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 22,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 48,
+      "avgEnemySize": 51
+    }
+  },
+  {
+    "id": "20260704-210234-ss42",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-07-04T19:02:34.000Z",
+    "dateEnd": "2026-07-04T19:56:58.000Z",
+    "dateLabel": "4.7.2026, 21:02:34 - 4.7.2026, 21:56:58",
+    "url": "https://Metah123.github.io/Metah/?report=20260704-210234-ss42",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Obsidian Sanctum",
+          "value": 27,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 48,
+      "avgEnemySize": 54
+    }
+  },
+  {
+    "id": "20260703-201030-ethe",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "dateStart": "2026-07-03T18:10:30.000Z",
+    "dateEnd": "2026-07-03T18:59:31.000Z",
+    "dateLabel": "3.7.2026, 20:10:30 - 3.7.2026, 20:59:31",
+    "url": "https://Metah123.github.io/Metah/?report=20260703-201030-ethe",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 29,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 49,
+      "avgEnemySize": 50
+    }
+  },
+  {
+    "id": "20260703-205436-xbsq",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "dateStart": "2026-07-03T18:54:36.000Z",
+    "dateEnd": "2026-07-03T19:57:32.000Z",
+    "dateLabel": "3.7.2026, 20:54:36 - 3.7.2026, 21:57:32",
+    "url": "https://Metah123.github.io/Metah/?report=20260703-205436-xbsq",
+    "summary": {
+      "borderlandsPct": 0.8787878787878788,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 29,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 45,
+      "avgEnemySize": 52
+    }
+  },
+  {
+    "id": "20260628-153802-k0bs",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-28T13:38:02.000Z",
+    "dateEnd": "2026-06-28T14:27:54.000Z",
+    "dateLabel": "28.6.2026, 15:38:02 - 28.6.2026, 16:27:54",
+    "url": "https://Metah123.github.io/Metah/?report=20260628-153802-k0bs",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 15,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260628-111743-agr1",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-28T09:17:43.000Z",
+    "dateEnd": "2026-06-28T09:52:20.000Z",
+    "dateLabel": "28.6.2026, 11:17:43 - 28.6.2026, 11:52:20",
+    "url": "https://Metah123.github.io/Metah/?report=20260628-111743-agr1",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 61,
+      "avgEnemySize": 87
+    }
+  },
+  {
+    "id": "20260627-204950-02gr",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "dateStart": "2026-06-27T18:49:50.000Z",
+    "dateEnd": "2026-06-27T19:54:12.000Z",
+    "dateLabel": "27.6.2026, 20:49:50 - 27.6.2026, 21:54:12",
+    "url": "https://Metah123.github.io/Metah/?report=20260627-204950-02gr",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 21,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 39
+    }
+  },
+  {
+    "id": "20260627-094029-gs79",
+    "title": "Devrahh",
+    "commanders": [
+      "Devrahh"
+    ],
+    "dateStart": "2026-06-27T07:40:29.000Z",
+    "dateEnd": "2026-06-27T09:58:47.000Z",
+    "dateLabel": "27.6.2026, 09:40:29 - 27.6.2026, 11:58:47",
+    "url": "https://Metah123.github.io/Metah/?report=20260627-094029-gs79",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260626-205542-ijcu",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-26T18:55:42.000Z",
+    "dateEnd": "2026-06-26T20:01:02.000Z",
+    "dateLabel": "26.6.2026, 20:55:42 - 26.6.2026, 22:01:02",
+    "url": "https://Metah123.github.io/Metah/?report=20260626-205542-ijcu",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 27,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 49,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260623-204836-8a0e",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-23T18:48:36.000Z",
+    "dateEnd": "2026-06-23T20:00:53.000Z",
+    "dateLabel": "23.6.2026, 20:48:36 - 23.6.2026, 22:00:53",
+    "url": "https://Metah123.github.io/Metah/?report=20260623-204836-8a0e",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 26,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260621-195844-6wqo",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-21T17:58:44.000Z",
+    "dateEnd": "2026-06-21T19:52:12.000Z",
+    "dateLabel": "21.6.2026, 19:58:44 - 21.6.2026, 21:52:12",
+    "url": "https://Metah123.github.io/Metah/?report=20260621-195844-6wqo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 30,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260621-210948-qx51",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-21T19:09:48.000Z",
+    "dateEnd": "2026-06-21T19:52:12.000Z",
+    "dateLabel": "21.6.2026, 21:09:48 - 21.6.2026, 21:52:12",
+    "url": "https://Metah123.github.io/Metah/?report=20260621-210948-qx51",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 29,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260613-205359-57ed",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-13T18:53:59.000Z",
+    "dateEnd": "2026-06-13T19:50:45.000Z",
+    "dateLabel": "13.6.2026, 20:53:59 - 13.6.2026, 21:50:45",
+    "url": "https://Metah123.github.io/Metah/?report=20260613-205359-57ed",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 28,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 50,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260612-204124-zpi5",
+    "title": "Î P S Ö",
+    "commanders": [
+      "Î P S Ö"
+    ],
+    "dateStart": "2026-06-12T18:41:24.000Z",
+    "dateEnd": "2026-06-12T19:50:02.000Z",
+    "dateLabel": "12.6.2026, 20:41:24 - 12.6.2026, 21:50:02",
+    "url": "https://Metah123.github.io/Metah/?report=20260612-204124-zpi5",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 22,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 50,
+      "avgEnemySize": 52
+    }
+  },
+  {
+    "id": "20260611-211238-kctl",
+    "title": "Eternal Beta",
+    "commanders": [
+      "Eternal Beta"
+    ],
+    "dateStart": "2026-06-11T19:12:38.000Z",
+    "dateEnd": "2026-06-11T20:02:44.000Z",
+    "dateLabel": "11.6.2026, 21:12:38 - 11.6.2026, 22:02:44",
+    "url": "https://Metah123.github.io/Metah/?report=20260611-211238-kctl",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 27,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 20
+    }
+  }
+]
