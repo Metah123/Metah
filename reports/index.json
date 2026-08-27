@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-200711-78ng",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "guild": {
+        "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
+        "name": "Mistwalk Syndicate",
+        "tag": "MS"
+      },
+      "dateStart": "2026-08-27T18:07:11.000Z",
+      "dateEnd": "2026-08-27T18:47:58.145Z",
+      "dateLabel": "27.8.2026, 20:07:11 - 27.8.2026, 20:47:58",
+      "url": "https://Metah123.github.io/Metah/?report=20260827-200711-78ng",
+      "summary": {
+        "borderlandsPct": 0.43478260869565216,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260826-211332-5a2s",
       "title": "Glozellasaurus, L Inspecteur",
       "commanders": [
