@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-204824-1rf2",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "guild": {
+        "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
+        "name": "Mistwalk Syndicate",
+        "tag": "MS"
+      },
+      "dateStart": "2026-08-28T18:48:24.000Z",
+      "dateEnd": "2026-08-28T19:53:13.034Z",
+      "dateLabel": "28.8.2026, 20:48:24 - 28.8.2026, 21:53:13",
+      "url": "https://Metah123.github.io/Metah/?report=20260828-204824-1rf2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260827-200711-78ng",
       "title": "Aerith Savante",
       "commanders": [
