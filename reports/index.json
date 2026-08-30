@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-201209-z3jf",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "guild": {
+        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+        "name": "Prôgrëss",
+        "tag": "poG"
+      },
+      "dateStart": "2026-08-30T18:12:09.000Z",
+      "dateEnd": "2026-08-30T18:59:49.374Z",
+      "dateLabel": "30.8.2026, 20:12:09 - 30.8.2026, 20:59:49",
+      "url": "https://Metah123.github.io/Metah/?report=20260830-201209-z3jf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260828-204824-1rf2",
       "title": "Aerith Savante",
       "commanders": [
