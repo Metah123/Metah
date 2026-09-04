@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-202054-rdv4",
+      "title": "Go Veil Urself",
+      "commanders": [
+        "Go Veil Urself"
+      ],
+      "guild": {
+        "id": "E8FA04C9-85DE-E611-80D3-441EA14F1E40",
+        "name": "Velrix",
+        "tag": "vX"
+      },
+      "dateStart": "2026-09-04T18:20:54.000Z",
+      "dateEnd": "2026-09-04T19:52:58.813Z",
+      "dateLabel": "4.9.2026, 20:20:54 - 4.9.2026, 21:52:58",
+      "url": "https://Metah123.github.io/Metah/?report=20260904-202054-rdv4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260830-201209-z3jf",
       "title": "Î P S Ö",
       "commanders": [
