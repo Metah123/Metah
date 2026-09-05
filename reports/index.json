@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-201537-te23",
+      "title": "Kaiser Kappu",
+      "commanders": [
+        "Kaiser Kappu"
+      ],
+      "guild": {
+        "id": "58F22165-8801-EE11-81B7-C3B1C0E42B51",
+        "name": "Æquínox",
+        "tag": "ÆX"
+      },
+      "dateStart": "2026-09-05T18:15:37.000Z",
+      "dateEnd": "2026-09-05T19:05:19.072Z",
+      "dateLabel": "5.9.2026, 20:15:37 - 5.9.2026, 21:05:19",
+      "url": "https://Metah123.github.io/Metah/?report=20260905-201537-te23",
+      "summary": {
+        "borderlandsPct": 0.45,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 22,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260904-202054-rdv4",
       "title": "Go Veil Urself",
       "commanders": [
