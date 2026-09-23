@@ -2,7 +2,36 @@
   "colorPalette": "emerald-mint",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260923-200206-is8n",
+      "title": "Go Veil Urself",
+      "commanders": [
+        "Go Veil Urself"
+      ],
+      "guild": {
+        "id": "0351F650-D079-EF11-8465-068565E44296",
+        "name": "Jeeeee Hoyyyyyyyyy",
+        "tag": "iKuy"
+      },
+      "dateStart": "2026-09-23T18:02:06.000Z",
+      "dateEnd": "2026-09-23T19:19:28.642Z",
+      "dateLabel": "23.9.2026, 20:02:06 - 23.9.2026, 21:19:28",
+      "url": "https://Metah123.github.io/Metah/?report=20260923-200206-is8n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 49
+      }
+    },
     {
       "id": "20260905-201537-te23",
       "title": "Kaiser Kappu",
