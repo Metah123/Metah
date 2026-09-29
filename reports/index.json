@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260929-200910-tod7",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "guild": {
+        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+        "name": "Prôgrëss",
+        "tag": "poG"
+      },
+      "dateStart": "2026-09-29T18:09:10.000Z",
+      "dateEnd": "2026-09-29T19:14:18.162Z",
+      "dateLabel": "29.9.2026, 20:09:10 - 29.9.2026, 21:14:18",
+      "url": "https://Metah123.github.io/Metah/?report=20260929-200910-tod7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260928-205730-fnel",
       "title": "Venomnomnóm",
       "commanders": [
