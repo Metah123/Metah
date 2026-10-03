@@ -1,9 +1,37 @@
 {
-  "colorPalette": "crimson-red",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "colorPalette": "violet-purple",
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20261003-202400-bcvz",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "guild": {
+        "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
+        "name": "Mistwalk Syndicate",
+        "tag": "MS"
+      },
+      "dateStart": "2026-10-03T18:24:00.000Z",
+      "dateEnd": "2026-10-03T19:03:57.909Z",
+      "dateLabel": "3.10.2026, 20:24:00 - 3.10.2026, 21:03:57",
+      "url": "https://Metah123.github.io/Metah/?report=20261003-202400-bcvz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 42,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20260929-200910-tod7",
       "title": "Î P S Ö",
