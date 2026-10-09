@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261009-204637-dpa3",
+      "title": "Down Bad Kev",
+      "commanders": [
+        "Down Bad Kev"
+      ],
+      "guild": {
+        "id": "E8FA04C9-85DE-E611-80D3-441EA14F1E40",
+        "name": "Velrix",
+        "tag": "vX"
+      },
+      "dateStart": "2026-10-09T18:46:37.000Z",
+      "dateEnd": "2026-10-09T19:58:20.490Z",
+      "dateLabel": "9.10.2026, 20:46:37 - 9.10.2026, 21:58:20",
+      "url": "https://Metah123.github.io/Metah/?report=20261009-204637-dpa3",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20261007-203708-6wui",
       "title": "Î P S Ö",
       "commanders": [
