@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-194010-tif2",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-12T17:40:10.000Z",
+      "dateEnd": "2026-10-12T18:32:27.333Z",
+      "dateLabel": "12.10.2026, 19:40:10 - 12.10.2026, 20:32:27",
+      "url": "https://Metah123.github.io/Metah/?report=20261012-194010-tif2",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20261009-204637-dpa3",
       "title": "Down Bad Kev",
