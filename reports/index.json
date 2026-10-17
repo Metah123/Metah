@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261017-195606-epsd",
+      "title": "Anima Vespera",
+      "commanders": [
+        "Anima Vespera"
+      ],
+      "guild": {
+        "id": "0351F650-D079-EF11-8465-068565E44296",
+        "name": "Jeeeee Hoyyyyyyyyy",
+        "tag": "iKuy"
+      },
+      "dateStart": "2026-10-17T17:56:06.000Z",
+      "dateEnd": "2026-10-17T18:57:30.414Z",
+      "dateLabel": "17.10.2026, 19:56:06 - 17.10.2026, 20:57:30",
+      "url": "https://Metah123.github.io/Metah/?report=20261017-195606-epsd",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261016-210915-2hgr",
       "title": "Brutus On Mesmer, Sigmaríus",
       "commanders": [
