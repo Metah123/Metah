@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261025-154733-f5qn",
+      "title": "Golden Slack",
+      "commanders": [
+        "Golden Slack"
+      ],
+      "guild": {
+        "id": "C2691997-FE7E-F111-BB1D-06F7FD84D645",
+        "name": "Sîx",
+        "tag": "sVn"
+      },
+      "dateStart": "2026-10-25T14:47:33.000Z",
+      "dateEnd": "2026-10-25T15:20:52.416Z",
+      "dateLabel": "25.10.2026, 15:47:33 - 25.10.2026, 16:20:52",
+      "url": "https://Metah123.github.io/Metah/?report=20261025-154733-f5qn",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20261025-093235-7114",
       "title": "Î P S Ö",
       "commanders": [
