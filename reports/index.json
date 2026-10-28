@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261028-200457-314z",
+      "title": "Go Veil Urself",
+      "commanders": [
+        "Go Veil Urself"
+      ],
+      "guild": {
+        "id": "E8FA04C9-85DE-E611-80D3-441EA14F1E40",
+        "name": "Velrix",
+        "tag": "vX"
+      },
+      "dateStart": "2026-10-28T19:04:57.000Z",
+      "dateEnd": "2026-10-28T19:55:57.473Z",
+      "dateLabel": "28.10.2026, 20:04:57 - 28.10.2026, 20:55:57",
+      "url": "https://Metah123.github.io/Metah/?report=20261028-200457-314z",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20261025-093235-7114",
       "title": "Î P S Ö",
