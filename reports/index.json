@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-200201-mjjb",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "guild": {
+        "id": "3725C08C-A3D4-F111-BB23-06F918AAA3DB",
+        "name": "Cry Me A Riverrrr",
+        "tag": "qwop"
+      },
+      "dateStart": "2026-11-01T19:02:01.000Z",
+      "dateEnd": "2026-11-01T20:02:04.481Z",
+      "dateLabel": "1.11.2026, 20:02:01 - 1.11.2026, 21:02:04",
+      "url": "https://Metah123.github.io/Metah/?report=20261101-200201-mjjb",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261028-200457-314z",
       "title": "Go Veil Urself",
       "commanders": [
