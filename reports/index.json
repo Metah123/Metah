@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261117-211130-xv92",
+      "title": "Î P S Ö",
+      "commanders": [
+        "Î P S Ö"
+      ],
+      "guild": {
+        "id": "ECD12BA3-92D8-EF11-81B7-C3B1C0E42B51",
+        "name": "Prôgrëss",
+        "tag": "poG"
+      },
+      "dateStart": "2026-11-17T20:11:30.000Z",
+      "dateEnd": "2026-11-17T20:55:30.961Z",
+      "dateLabel": "17.11.2026, 21:11:30 - 17.11.2026, 21:55:30",
+      "url": "https://Metah123.github.io/Metah/?report=20261117-211130-xv92",
+      "publishedBy": "Metah123",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20261106-200127-7o6j",
       "title": "Î P S Ö",
